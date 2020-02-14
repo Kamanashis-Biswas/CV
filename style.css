@@ -1,0 +1,129 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    font-family: "Serif, serif;
+  }
+  
+  body {
+    background: #ffffff;
+    font-size: 14px;
+    line-height: 22px;
+    color: #0a0a0a;
+}
+.cv {
+    width: 800px;
+    height: auto;
+    background: #d0d0d8;
+    display: flex;
+    border-radius: 10px;
+    border: 1px solid;
+    padding: 15px;
+    margin: 50px auto;
+}
+.cv img {
+    width: 205px;
+    border: 1px solid #292A2D;
+    border-radius: 2px;
+    padding: 5px;
+    margin: 5px 5px 5px 5px;
+}
+.cv_right_name {
+    font-size: 39px;
+    margin-top: 30px;
+    margin-left: 81px;
+}
+.cv_right_details_left {
+    float: left;
+    margin-left: 76px;
+    margin-top: 20px;
+    font-size: 16px;
+}
+.cv_right_details_right {
+    float: left;
+    margin-left: 142px;
+    margin-top: 20px;
+    font-size: 16px;
+}
+
+.cv_details_left_career {
+    text-transform: uppercase;
+    margin-left: 66px;
+    margin-top: 16px;
+}
+.cv_details_left_education {
+    text-transform: uppercase;
+    margin-left: 66px;
+    margin-top: 183px;
+}
+.cv_details_left_experience {
+    text-transform: uppercase;
+    margin-left: 66px;
+    margin-top: 140px;
+}
+.cv_details_left_workexperience {
+    text-transform: uppercase;
+    margin-left: 66px;
+    margin-top: 30px;
+}
+.cv_details_right {
+    margin-top: 210px;
+}
+.cv_detalis_right_second_pra{
+    margin-top: 25px;
+}
+.cv_details_right_second_pra p{
+    margin-top: 7px;
+}
+.cv_details_right_thired_pra{
+    margin-bottom: 5px;
+}
+.cv_details_right_four_pra{
+
+}
+.cv_details_right_four_pra_point ul{
+    margin-left: 42px;
+}
+
+.readmore {
+	float: right;
+	margin: 5px 20px 20px;
+}
+
+.readmore a {
+	text-decoration: none;
+	background: #fff;
+	padding: 4px 8px;
+	border: 1px solid #b7801c;
+	color: #b7801c;
+	display: block;
+	border-radius: 3px;
+	font-size: 17px;
+	
+}
+
+.readmore a:hover{
+	color: #1F56BA;
+}
+
+.cv_left_first_point{
+    text-transform: uppercase;
+    margin-left: 66px;
+    margin-top: 18px;
+}
+
+.cv_right_first_details{
+    margin-left: 38px;
+    margin-top: 16px;
+}
+
+.point ul li{
+    margin-left: 42px;
+}
+
+.cv_left_second_point{
+    margin-left: 66px;
+    margin-top: 530px;
+}
+
